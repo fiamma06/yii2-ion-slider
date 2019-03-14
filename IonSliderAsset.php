@@ -21,7 +21,6 @@ class IonSliderAsset extends AssetBundle
      */
     public $css = [
         'css/ion.rangeSlider.css',
-        'css/ion.rangeSlider.skinHTML5.css',
     ];
 
     /**
